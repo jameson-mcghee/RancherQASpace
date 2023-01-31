@@ -1,0 +1,4 @@
+baseURL = 'https://jameson-mcghee.github.io/RancherQASpace/'
+languageCode = 'en-us'
+title = 'Rancher QA Space'
+theme = 'm10c'
