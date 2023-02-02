@@ -1,6 +1,7 @@
 ---
 title: "Installing and Upgrading Rancher via Docker"
 date: 2023-02-02T12:00:46-05:00
+text_color: "black"
 draft: true
 ---
 **Author:** [**Jameson McGhee**](https://www.linkedin.com/in/jameson-mcghee-ctfl/)
